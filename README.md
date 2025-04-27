@@ -3,6 +3,6 @@
 ### Laravel v.11 AUTH pattern
 Pattern login/register for Laravel aplications.
 
-![Login page view](/img/login-page.jpg)
+![Login page view](/img_for_readme/login-page.jpg)
 
 [Laravel oficial documentation](https://laravel.com/docs/12.x)* 
